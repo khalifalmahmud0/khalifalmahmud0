@@ -1,3 +1,3 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://myreadme.vercel.app/api/embed/khalifalmahmud0?panels=userstatistics,toprepositories,toplanguages" width="1000" height="auto"><img alt="Dashboard stats of @khalifalmahmud0" src="https://myreadme.vercel.app/api/embed/khalifalmahmud0?panels=userstatistics,toprepositories,toplanguages" width="1000" height="auto"></picture>
 
-![Metrics](https://metrics.lecoq.io/khalifalmahmud0?template=classic&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka&config.display=columns)
+![Metrics](https://metrics.lecoq.io/khalifalmahmud0?template=classic&base.header=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FDhaka&config.display=columns)
