@@ -1,2 +1,11 @@
-<img alt="Ranking of repos with the commit code changes in pingcap-inc" src="https://next.ossinsight.io/widgets/official/compose-org-code-changes-top-repositories/thumbnail.png?period=past_12_months&owner_id=31877641&image_size=4x4&color_scheme=light" width="1000" height="auto">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=31877641" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=31877641&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @khalifalmahmud0" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=31877641&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
