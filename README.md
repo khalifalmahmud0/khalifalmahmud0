@@ -1,8 +1,3 @@
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abc" /></a><a href="https://ko-fi.com/abc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abc" /></a></p><br><br>
-
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifalmahmud0&layout=compact&theme=tokyonight" alt=khalifalmahmud0 />
 
