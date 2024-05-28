@@ -1,9 +1,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifalmahmud0&layout=compact&theme=tokyonight" alt=khalifalmahmud0 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=khalifalmahmud0&show_icons=true&locale=en&theme=tokyonight" alt="khalifalmahmud0" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifalmahmud0&theme=tokyonight" alt="khalifalmahmud0" /></p>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=khalifalmahmud0&show_icons=true&locale=en&theme=tokyonight" alt="khalifalmahmud0" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifalmahmud0&theme=tokyonight" alt="khalifalmahmud0" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
